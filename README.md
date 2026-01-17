@@ -2,6 +2,8 @@
 
 A feature-rich Flutter application for discovering movies using the TMDB API. Built with clean architecture, Riverpod state management, and a beautiful dark cinematic UI.
 
+ADD YOUR OWN API KEY AND BEARER TOKEN
+
 ## Features
 
 ### Core Features
@@ -149,6 +151,8 @@ The app follows Clean Architecture with three layers:
 | Movie Details | GET /movie/{id} |
 | Genre List | GET /genre/movie/list |
 | Discover by Genre | GET /discover/movie |
+
+//add your own api key
 
 ## Building APK
 
