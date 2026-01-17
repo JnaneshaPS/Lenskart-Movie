@@ -1,5 +1,7 @@
 # CineVault - Movie Discovery App
 
+VIDEO LINK:https://drive.google.com/file/d/1JfmVp8l0hqFiktp2p2dXPdRs-8dusdJO/view?usp=drive_link
+
 A feature-rich Flutter application for discovering movies using the TMDB API. Built with clean architecture, Riverpod state management, and a beautiful dark cinematic UI.
 
 ADD YOUR OWN API KEY AND BEARER TOKEN
